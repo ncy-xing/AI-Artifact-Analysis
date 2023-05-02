@@ -1,12 +1,12 @@
 import sys
 from glob import glob
 
-INVALID_CHARS = set([',', '‘', '?', '!', '%', '|', ':', '<', '>', '“', '”',
-                    '•'])
+INVALID_CHARS = set([',', '‘', '|', ':', '<', '>', '“', '”',
+                    '•', '…'])
 APOSTROPHES = set(['’', '’'])
 
 def clean_article(article_text):
-    text_to_process = article_text.split('•')[0].strip()
+    text_to_process = article_text
     new_article_text = ''
     for i, c in enumerate(text_to_process):
         if c in APOSTROPHES and (i > 0 and text_to_process[i - 1] != ' ') and \
@@ -38,6 +38,7 @@ def main():
             file.seek(0)
             file.truncate(0)
             file.write(clean_article(content))
+    print(f"Cleaned {len(article_names)} articles")
 
 
 if __name__ == '__main__':
