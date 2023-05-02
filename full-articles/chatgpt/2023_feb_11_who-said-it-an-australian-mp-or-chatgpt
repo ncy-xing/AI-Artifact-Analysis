@@ -1,61 +1,57 @@
-The artificial intelligence application ChatGPT has already been banned in some state schools over concerns it could help students cheat, but some Australian MPs had no such qualms when they delivered speeches partially written by the tool in parliament this week. 
-ChatGPT has a reputation for saying a lot without saying much at all, so perhaps it’s ideally suited to the job of parliamentary speechwriter – or maybe it’s smarter than we give it credit for. 
+The artificial intelligence application ChatGPT has already been banned in some state schools over concerns it could help students cheat but some Australian MPs had no such qualms when they delivered speeches partially written by the tool in parliament this week. 
+ChatGPT has a reputation for saying a lot without saying much at all so perhaps it's ideally suited to the job of parliamentary speechwriter or maybe it's smarter than we give it credit for. 
  
-  Related: ChatGPT can tell jokes, even write articles. But only humans can detect its fluent bullshit | Kenan Malik  
+  Related ChatGPT can tell jokes even write articles. But only humans can detect its fluent bullshit  Kenan Malik  
  
-To find out, we searched Hansard for parliamentary speeches made by Australian MPs in 2020 and asked ChatGPT to opine on the same subjects – ranging from the role the arts play in society to the government’s obligation to provide good dental care. 
+To find out we searched Hansard for parliamentary speeches made by Australian MPs in 2020 and asked ChatGPT to opine on the same subjects ranging from the role the arts play in society to the government's obligation to provide good dental care. 
 See if you can tell them apart. 
   
   
    
     
-     On arts policy, which of these was written by ChatGPT?
+     On arts policy which of these was written by ChatGPT
       
-       "Arts play a significant role in our society as they offer a creative outlet for expression and provide an escape from reality. They also serve as a means of cultural preservation, allowing us to understand and connect with our past."
-       <li class="question__answer answer" data-text="&quot;The arts weave into our lives each and every day almost without us knowing it, whether it is a moving film, a beautifully designed building or simply an elegant teacup. The arts stimulate our mind and our imagination. The arts provide everyday lives with moments of beauty.&quot;
-" data-correct="false">"The arts weave into our lives each and every day almost without us knowing it, whether it is a moving film, a beautifully designed building or simply an elegant teacup. The arts stimulate our mind and our imagination. The arts provide everyday lives with moments of beauty." 
+       "Arts play a significant role in our society as they offer a creative outlet for expression and provide an escape from reality. They also serve as a means of cultural preservation allowing us to understand and connect with our past."
+       li class="question__answer answer" data-text="&quot;The arts weave into our lives each and every day almost without us knowing it whether it is a moving film a beautifully designed building or simply an elegant teacup. The arts stimulate our mind and our imagination. The arts provide everyday lives with moments of beauty.&quot;
+" data-correct="false""The arts weave into our lives each and every day almost without us knowing it whether it is a moving film a beautifully designed building or simply an elegant teacup. The arts stimulate our mind and our imagination. The arts provide everyday lives with moments of beauty." 
       
-     On preserving Sydney's beaches, which of these was written by ChatGPT?
+     On preserving Sydney's beaches which of these was written by ChatGPT
       
-       <li class="question__answer answer" data-text="&quot;The beaches are not only a source of beauty and recreation, but they also play a vital role in the local ecosystem. They serve as habitats for a variety of plants and animals, and their delicate balance must be preserved in order to protect these species and the larger ecosystem as a whole.&quot; 
-" data-correct="true">"The beaches are not only a source of beauty and recreation, but they also play a vital role in the local ecosystem. They serve as habitats for a variety of plants and animals, and their delicate balance must be preserved in order to protect these species and the larger ecosystem as a whole." 
-       <li class="question__answer answer" data-text="&quot;From Palm Beach to Manly, from Bondi to Little Bay, and across Pittwater to Patonga, Sydney has one of the most beautiful coastlines in the world. Its rich biodiversity and all-round stunning views make it a wonder to behold. Not only is it something locals derive great pleasure from; it is a pivotal part of Sydney's tourism economy.&quot;
-" data-correct="false">"From Palm Beach to Manly, from Bondi to Little Bay, and across Pittwater to Patonga, Sydney has one of the most beautiful coastlines in the world. Its rich biodiversity and all-round stunning views make it a wonder to behold. Not only is it something locals derive great pleasure from; it is a pivotal part of Sydney's tourism economy." 
+       li class="question__answer answer" data-text="&quot;The beaches are not only a source of beauty and recreation but they also play a vital role in the local ecosystem. They serve as habitats for a variety of plants and animals and their delicate balance must be preserved in order to protect these species and the larger ecosystem as a whole.&quot; 
+" data-correct="true""The beaches are not only a source of beauty and recreation but they also play a vital role in the local ecosystem. They serve as habitats for a variety of plants and animals and their delicate balance must be preserved in order to protect these species and the larger ecosystem as a whole." 
+       li class="question__answer answer" data-text="&quot;From Palm Beach to Manly from Bondi to Little Bay and across Pittwater to Patonga Sydney has one of the most beautiful coastlines in the world. Its rich biodiversity and all-round stunning views make it a wonder to behold. Not only is it something locals derive great pleasure from; it is a pivotal part of Sydney's tourism economy.&quot;
+" data-correct="false""From Palm Beach to Manly from Bondi to Little Bay and across Pittwater to Patonga Sydney has one of the most beautiful coastlines in the world. Its rich biodiversity and all-round stunning views make it a wonder to behold. Not only is it something locals derive great pleasure from; it is a pivotal part of Sydney's tourism economy." 
       
-     On the impact of Covid on travel agents, which of these was written by ChatGPT?
+     On the impact of Covid on travel agents which of these was written by ChatGPT
       
-       "With planes grounded and borders closed for domestic and international travel and with constantly changing travel restrictions, travel agents are now working harder than ever sending money out their door as refunds to their clients with zero money coming in."
-       "Despite the difficulties posed by the pandemic, travel agents continued to work tirelessly, often for long hours and with little reward, to ensure that their clients received the refunds they were entitled to. Their selflessness and dedication in the face of the pandemic serves as a reminder of the vital role that travel agents play in the industry."
+       "With planes grounded and borders closed for domestic and international travel and with constantly changing travel restrictions travel agents are now working harder than ever sending money out their door as refunds to their clients with zero money coming in."
+       "Despite the difficulties posed by the pandemic travel agents continued to work tirelessly often for long hours and with little reward to ensure that their clients received the refunds they were entitled to. Their selflessness and dedication in the face of the pandemic serves as a reminder of the vital role that travel agents play in the industry."
       
-     On Australia's unpaid carers, which of these was written by ChatGPT?
+     On Australia's unpaid carers which of these was written by ChatGPT
       
-       "Australia's 2.65 million unpaid carers provide a crucial service to their communities, caring for loved ones who are ill, injured or have a disability. Despite the critical role they play, these carers often work informally, providing care without pay or support. The value of their work has been estimated at $78 billion, yet they are not adequately supported by the government."
-       <li class="question__answer answer" data-text="&quot;Australia's 2.65 million unpaid carers do an incredible job supporting family, friends and loved ones who need care. But we need to remember this care often takes a toll on the physical health, mental health and financial security of the carer, especially this year. As we face COVID-19, unpaid carers of children with disability, of frail elderly parents and of partners with chronic health problems have taken on more responsibility than ever before as formal support falls away and waiting times grow. The value of informal care across Australia in 2020 is estimated to be close to $78 billion. Yet, at the same time, government financial support for carers is only a small fraction of this amount.&quot;
-" data-correct="false">"Australia's 2.65 million unpaid carers do an incredible job supporting family, friends and loved ones who need care. But we need to remember this care often takes a toll on the physical health, mental health and financial security of the carer, especially this year. As we face COVID-19, unpaid carers of children with disability, of frail elderly parents and of partners with chronic health problems have taken on more responsibility than ever before as formal support falls away and waiting times grow. The value of informal care across Australia in 2020 is estimated to be close to $78 billion. Yet, at the same time, government financial support for carers is only a small fraction of this amount." 
+       "Australia's 2.65 million unpaid carers provide a crucial service to their communities caring for loved ones who are ill injured or have a disability. Despite the critical role they play these carers often work informally providing care without pay or support. The value of their work has been estimated at $78 billion yet they are not adequately supported by the government."
+       li class="question__answer answer" data-text="&quot;Australia's 2.65 million unpaid carers do an incredible job supporting family friends and loved ones who need care. But we need to remember this care often takes a toll on the physical health mental health and financial security of the carer especially this year. As we face COVID-19 unpaid carers of children with disability of frail elderly parents and of partners with chronic health problems have taken on more responsibility than ever before as formal support falls away and waiting times grow. The value of informal care across Australia in 2020 is estimated to be close to $78 billion. Yet at the same time government financial support for carers is only a small fraction of this amount.&quot;
+" data-correct="false""Australia's 2.65 million unpaid carers do an incredible job supporting family friends and loved ones who need care. But we need to remember this care often takes a toll on the physical health mental health and financial security of the carer especially this year. As we face COVID-19 unpaid carers of children with disability of frail elderly parents and of partners with chronic health problems have taken on more responsibility than ever before as formal support falls away and waiting times grow. The value of informal care across Australia in 2020 is estimated to be close to $78 billion. Yet at the same time government financial support for carers is only a small fraction of this amount." 
       
-     On the regional economy, which of these was written by ChatGPT?
+     On the regional economy which of these was written by ChatGPT
       
-       "Regional areas play a significant role in contributing to Australia's economy. These areas are responsible for producing a significant portion of the country's agricultural and mining output, as well as supporting industries such as tourism, retail, and manufacturing. In addition, regional areas provide a range of employment opportunities, especially in rural communities where jobs can be scarce."
-       "Too often our regional communities are talked about in terms of crisis – droughts, floods and fires – and lack of services, when in fact their story is much more complex and their contribution to our nation has been far more significant. From farming to resources, energy production, manufacturing, tourism and service provision, our regions contribute so much to our nation, often more than they are given credit for."
+       "Regional areas play a significant role in contributing to Australia's economy. These areas are responsible for producing a significant portion of the country's agricultural and mining output as well as supporting industries such as tourism retail and manufacturing. In addition regional areas provide a range of employment opportunities especially in rural communities where jobs can be scarce."
+       "Too often our regional communities are talked about in terms of crisis droughts floods and fires and lack of services when in fact their story is much more complex and their contribution to our nation has been far more significant. From farming to resources energy production manufacturing tourism and service provision our regions contribute so much to our nation often more than they are given credit for."
       
-     On the importance of dental care, which of these was written by ChatGPT?
+     On the importance of dental care which of these was written by ChatGPT
       
        "Poor dental care increases the risk of cardiovascular disease and stroke. Poor dental care leads to workforce difficulties and difficulty even in obtaining employment. Yet this government has no idea and no comprehensive plan. Australians are suffering because of this government's lack of commitment to decent dental care. It is time for urgent action so that all Australians can access dental care."
-       Dental care is one of the most expensive healthcare services in the country, and many people are unable to afford the cost of treatment. As a result, many individuals are left with untreated dental problems that can lead to serious health issues and increased financial burden. To address this issue, it is important that the government increases its investment in dental care and implements programs that make dental services more accessible and affordable for all Australians.
+       Dental care is one of the most expensive healthcare services in the country and many people are unable to afford the cost of treatment. As a result many individuals are left with untreated dental problems that can lead to serious health issues and increased financial burden. To address this issue it is important that the government increases its investment in dental care and implements programs that make dental services more accessible and affordable for all Australians.
       
     
     Solutions
-    1:A, 2:A, 3:B, 4:A, 5:A, 6:B
+    1A 2A 3B 4A 5A 6B
     Scores
     
      6 and above.You're an expert
-     5 and above.Well done!
-     4 and above.Well done!
+     5 and above.Well done
+     4 and above.Well done
      3 and above.You were half right
-     2 and above.Now you're picking it up!
+     2 and above.Now you're picking it up
      1 and above.You're getting there...
      0 and above.You're not quite getting it
-    
-    
-  
-  
