@@ -9,7 +9,7 @@ from datetime import date, timedelta
 
 # EXAMPLE URL: ttp://content.guardianapis.com/search?q=tiktok&order-by=newest&show-fields=all&page-size=10&query-fields=webTitle&api-key=1d2e8b51-ecd1-4cc8-91f4-2edc298d5403
 
-API_KEY = '1d2e8b51-ecd1-4cc8-91f4-2edc298d5403'
+API_KEY = '' # INSERT API KEY HERE
 API_ENDPOINT = 'http://content.guardianapis.com/search'
 HTML_TAG_REGEX = re.compile('<.*?>')
 GOOGLE_FIELDS = "google AND (algorithm OR search OR ai OR (artificial AND intelligence))"
